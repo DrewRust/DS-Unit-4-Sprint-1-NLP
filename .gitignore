@@ -107,4 +107,5 @@ venv.bak/
 .icloud
 .DS_Store
 .vscode
-
+module1-text-data/data/yelp_coffeeshop_review_data.csv
+module1-text-data/data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
